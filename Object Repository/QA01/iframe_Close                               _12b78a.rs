@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_Close                               _12b78a</name>
+   <tag></tag>
+   <elementGuidId>4967ecf1-9a53-4042-a8cc-1718207c6892</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bizPageDiv']/iframe</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = './common/subEntry.html']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>iframe.bizPageIFrame.bpDisplay</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>d87f0e3d-1c46-4f1f-b215-d944d61d9dff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>./common/subEntry.html</value>
+      <webElementGuid>697967b9-495b-49c4-b8ab-4af44cfa3024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>frameborder</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>28ffb71e-0a79-4026-8d67-056b527ad901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bizPageIFrame bpDisplay</value>
+      <webElementGuid>05440a84-9836-4451-b037-a8ef5be989f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onload</name>
+      <type>Main</type>
+      <value>waiFrame.__pageTabLoaded('QA01')</value>
+      <webElementGuid>c46c625d-df5f-4938-b7d0-d2851b79c858</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bizPageDiv&quot;)/iframe[@class=&quot;bizPageIFrame bpDisplay&quot;]</value>
+      <webElementGuid>8381407d-43b3-4f27-9742-11964a0c8fc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bizPageDiv']/iframe</value>
+      <webElementGuid>4068fbe1-34fa-4f0d-afd5-34d413002ba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/iframe</value>
+      <webElementGuid>2fb8c2f1-e55f-44f4-b61f-bbb2a45733c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@src = './common/subEntry.html']</value>
+      <webElementGuid>3c66421d-b376-4af0-9e64-a003b6b2e67d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

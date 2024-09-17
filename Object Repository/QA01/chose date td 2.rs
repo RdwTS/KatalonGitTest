@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chose date td 2</name>
+   <tag></tag>
+   <elementGuidId>52d76271-a03b-43e0-87d3-2bae243f4c1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.calendar-day.calendar-nav-hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//dateedit[@id='inpPeriodStartDt']/div/div[2]/table/tbody/tr[2]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>5230ab16-7910-4aea-a461-a41c7fae3578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>calendar-day calendar-nav-hover</value>
+      <webElementGuid>0e7677b5-4f8b-4ec6-a129-6c256d82bd53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>abbr</name>
+      <type>Main</type>
+      <value>2021,8,2</value>
+      <webElementGuid>3ac6645e-854e-4af2-b6a1-e65b1c3f7931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>1c1426ae-f39e-41c3-969a-9600b5657e71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inpPeriodStartDt&quot;)/div[@class=&quot;calendar&quot;]/div[@class=&quot;calendar-body&quot;]/table[@class=&quot;calendar-dtable&quot;]/tbody[1]/tr[2]/td[@class=&quot;calendar-day calendar-nav-hover&quot;]</value>
+      <webElementGuid>7b02d71b-c294-4866-ab69-f2c52dc6a588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/QA01/iframe_Save_bizPageFrm</value>
+      <webElementGuid>c049992f-c1e9-43fc-bf18-f2a4a69a538f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//dateedit[@id='inpPeriodStartDt']/div/div[2]/table/tbody/tr[2]/td[2]</value>
+      <webElementGuid>ac452faa-144c-4102-ab3f-508800a52f54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[2]/following::td[9]</value>
+      <webElementGuid>6753cf21-1d59-4793-a128-d67bb1f3cb8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[1]/following::td[9]</value>
+      <webElementGuid>0a2f39b1-8636-403b-b680-2feb67bf8aab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[34]</value>
+      <webElementGuid>0fb5c4e9-fcdc-4f20-9b31-496e8be1c7a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::td[35]</value>
+      <webElementGuid>51c1496e-402c-4224-9018-a366ff80f4f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2']/parent::*</value>
+      <webElementGuid>fa853366-14e6-4315-b847-61ba3627beab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]</value>
+      <webElementGuid>ca7bd4e5-e7c4-4495-b7ae-f918282760b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '2' or . = '2')]</value>
+      <webElementGuid>0dc6552c-6693-4f17-b5f9-1ab0d9cc3396</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="24.494" tests="2" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="2" failures="0" errors="0" time="24.494" skipped="0" timestamp="06-09-2024T09:21:41" hostname="User - NTI-COL-RIDWAN" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="D:\\Katalon Studio\\My First Web UI Project HANA DEV\\Reports\\20240906_092117\\New Test Suite\\20240906_092117"/>
+         <property name="logFiles" value="D:\\Katalon Studio\\My First Web UI Project HANA DEV\\Reports\\20240906_092117\\New Test Suite\\20240906_092117\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="User - NTI-COL-RIDWAN"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+         <property name="browser" value="Chrome 128.0.0.0"/>
+         <property name="hostAddress" value="10.8.0.60"/>
+         <property name="sessionId" value="eea1eda96b8d6331c2d24b768038a10e"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Common test/Login Dev" time="13.449" classname="Test Cases/Common test/Login Dev" status="PASSED">
+         <system-out><![CDATA[06-09-2024T09:21:41 - [TEST_CASE][PASSED] - Test Cases/Common test/Login Dev: Test Cases/Common test/Login Dev
+
+06-09-2024T09:21:41 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+06-09-2024T09:21:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+06-09-2024T09:21:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+06-09-2024T09:21:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+06-09-2024T09:21:44 - [TEST_STEP][PASSED] - navigateToUrl("https://10.25.88.76:8099/"): Navigate to 'https://10.25.88.76:8099/' successfully
+
+06-09-2024T09:21:44 - [MESSAGE][PASSED] - Navigate to 'https://10.25.88.76:8099/' successfully
+
+06-09-2024T09:21:44 - [TEST_STEP][PASSED] - click(findTestObject("privacy error/details-button")): Object: 'Object Repository/privacy error/details-button' is clicked on
+
+06-09-2024T09:21:44 - [MESSAGE][PASSED] - Object: 'Object Repository/privacy error/details-button' is clicked on
+
+06-09-2024T09:21:44 - [TEST_STEP][PASSED] - click(findTestObject("privacy error/proceed-link")): Object: 'Object Repository/privacy error/proceed-link' is clicked on
+
+06-09-2024T09:21:48 - [MESSAGE][PASSED] - Object: 'Object Repository/privacy error/proceed-link' is clicked on
+
+06-09-2024T09:21:48 - [TEST_STEP][PASSED] - setText(findTestObject("Login page/input_Hobis_loginUsername"), "CL012"): Text 'CL012' is set on object 'Object Repository/Login page/input_Hobis_loginUsername'
+
+06-09-2024T09:21:49 - [MESSAGE][PASSED] - Text 'CL012' is set on object 'Object Repository/Login page/input_Hobis_loginUsername'
+
+06-09-2024T09:21:49 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Login page/input_Hobis_loginPassword noXpath"), "HeCM15nHKBI="): Text ****** has been set on object 'Object Repository/Login page/input_Hobis_loginPassword noXpath'
+
+06-09-2024T09:21:49 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login page/input_Hobis_loginPassword noXpath'
+
+06-09-2024T09:21:49 - [TEST_STEP][PASSED] - click(findTestObject("Login page/button_Login noXpath")): Object: 'Object Repository/Login page/button_Login noXpath' is clicked on
+
+06-09-2024T09:21:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Login page/button_Login noXpath' is clicked on
+
+06-09-2024T09:21:50 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Main scren/td_CLDS"), 360): Object 'Object Repository/Main scren/td_CLDS' is visible
+
+06-09-2024T09:21:54 - [MESSAGE][PASSED] - Object 'Object Repository/Main scren/td_CLDS' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/CL01/inquiry" time="10.877" classname="Test Cases/CL01/inquiry" status="PASSED">
+         <system-out><![CDATA[06-09-2024T09:21:54 - [TEST_CASE][PASSED] - Test Cases/CL01/inquiry: Test Cases/CL01/inquiry
+
+06-09-2024T09:21:54 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/CL01/input_COLLECTION_BCInp"), "CL01"): Text 'CL01' is set on object 'Object Repository/CL01/input_COLLECTION_BCInp'
+
+06-09-2024T09:22:01 - [MESSAGE][PASSED] - Text 'CL01' is set on object 'Object Repository/CL01/input_COLLECTION_BCInp'
+
+06-09-2024T09:22:01 - [TEST_STEP][PASSED] - click(findTestObject("CL01/button_Inquiry noXpath")): Object: 'Object Repository/CL01/button_Inquiry noXpath' is clicked on
+
+06-09-2024T09:22:02 - [MESSAGE][PASSED] - Object: 'Object Repository/CL01/button_Inquiry noXpath' is clicked on
+
+06-09-2024T09:22:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/CL01/div_1")): Object: 'Object Repository/CL01/div_1' is clicked on
+
+06-09-2024T09:22:05 - [MESSAGE][PASSED] - Object: 'Object Repository/CL01/div_1' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[06-09-2024T09:21:41 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/CL01/inquiry]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

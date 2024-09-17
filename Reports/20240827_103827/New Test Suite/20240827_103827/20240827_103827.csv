@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 127.0.0.0,,,27-08-2024 10:38:35,27-08-2024 10:39:15,39.784s,FAILED
+,,,,,,,
+Test Cases/Common test/Login Dev,Chrome 127.0.0.0,login,,27-08-2024 10:38:35,27-08-2024 10:38:42,6.501s,PASSED
+"openBrowser("""")",Chrome 127.0.0.0,,,27-08-2024 10:38:36,27-08-2024 10:38:37,1.556s,PASSED
+"navigateToUrl(""https://10.25.88.76:8099/"")",Chrome 127.0.0.0,,,27-08-2024 10:38:37,27-08-2024 10:38:37,0.222s,PASSED
+"click(findTestObject(""privacy error/details-button""))",Chrome 127.0.0.0,,,27-08-2024 10:38:37,27-08-2024 10:38:38,0.240s,PASSED
+"click(findTestObject(""privacy error/proceed-link""))",Chrome 127.0.0.0,,,27-08-2024 10:38:38,27-08-2024 10:38:40,2.419s,PASSED
+"setText(findTestObject(""Login page/input_Hobis_loginUsername""), ""CL012"")",Chrome 127.0.0.0,,,27-08-2024 10:38:40,27-08-2024 10:38:41,0.758s,PASSED
+"setEncryptedText(findTestObject(""Login page/input_Hobis_loginPassword noXpath""), ""HeCM15nHKBI="")",Chrome 127.0.0.0,,,27-08-2024 10:38:41,27-08-2024 10:38:42,0.790s,PASSED
+"click(findTestObject(""Login page/button_Login noXpath""))",Chrome 127.0.0.0,,,27-08-2024 10:38:42,27-08-2024 10:38:42,0.324s,PASSED
+,,,,,,,
+Test Cases/CL01/inquiry,Chrome 127.0.0.0,,,27-08-2024 10:38:42,27-08-2024 10:39:15,33.140s,FAILED
+"setText(findTestObject(""Object Repository/CL01/input_COLLECTION_BCInp""), ""CL01"")",Chrome 127.0.0.0,,,27-08-2024 10:38:42,27-08-2024 10:38:44,1.782s,PASSED
+"click(findTestObject(""Object Repository/CL01/button_Inquiry""))",Chrome 127.0.0.0,,,27-08-2024 10:38:44,27-08-2024 10:39:15,31.292s,FAILED
